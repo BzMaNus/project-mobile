@@ -1,6 +1,8 @@
 # book
 
-A new Flutter project.
+ผู้จัดทำ
+64104532 ณัฐนันท์ ทองมาก
+64125354 ภีรภัทร บุญสุวรรณ
 
 ## Getting Started
 
